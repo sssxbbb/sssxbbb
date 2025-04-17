@@ -29,4 +29,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sssxbbb/sssxbbb/output/github-contribution-grid-snake.svg">
 </picture>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=sssxbbb)
+
+
 ![Metrics](/github-metrics.svg)
