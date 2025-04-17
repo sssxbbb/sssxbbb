@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sssxbbb)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+my+homepage;hello!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐻welcome+to+my+homepage;😺Hello!)
