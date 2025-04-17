@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 </picture>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sssxbbb)
-
-
-![Metrics](/github-metrics.svg)
